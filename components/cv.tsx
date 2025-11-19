@@ -31,7 +31,7 @@ export default function CV() {
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-6 mb-12">
           <h2 className="text-4xl lg:text-5xl font-bold">Curriculum Vitae</h2>
           <a
-            href="/resume.pdf"
+            href="/JerryBuaka_Resume.pdf"
             download="resume.pdf"
             className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-background font-semibold rounded-lg hover:bg-accent/90 transition-colors whitespace-nowrap"
           >
