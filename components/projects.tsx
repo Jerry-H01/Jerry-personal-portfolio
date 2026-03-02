@@ -7,14 +7,28 @@ const projects = [
     description:
       "Website for a corporate company featuring courses, faculty profiles, and CRM to manage web contents and keep records of clients.",
     tags: ["react", "tailwind", "typescript"],
-    link: "#",
+    link: "https://ghascd.org/",
+  },
+  {
+    title: "Corperate Website",
+    description:
+      "website for a tech company",
+    tags: ["react", "tailwind", "typescript"],
+    link: "https://cybasegh.com/",
   },
   {
     title: "Car Rental & Real Estate Website",
     description:
       "A responsive website for car rental and real estate listings with booking functionality.",
     tags: ["Wordpress"],
-    link: "#",
+    link: "https://mybftservice.com/",
+  },
+  {
+    title: "Apartment Website and Management System",
+    description:
+      "A responsive website for apartment listings with booking functionality.",
+    tags: ["react", "tailwind", "typescript"],
+    link: "https://westbury.cybasegh.com/",
   },
   {
     title: "Laundry Management System",
@@ -26,23 +40,23 @@ const projects = [
   {
     title: "Equipment Rental Platform",
     description:
-      "Platform for renting various equipment with user authentication and admin dashboard. Frontend developed using React",
+      "Platform for renting various equipment with user authentication and admin dashboard. Frontend developed using React. this website is still in development stage",
     tags: ["React", "TypeScript", "Tailwind"],
     link: "#",
   },
   {
     title: "Fashion School Website",
     description:
-      "Website for a fashion school featuring courses, faculty profiles, and enrollment forms.",
+      "Website for a fashion school featuring courses, faculty profiles, and enrollment forms.(link to this website is not available as it was taken down)",
     tags: ["html", "css", "javascript"],
-    link: "#",
+    link: "",
   },
   {
     title: " Car Rental website",
     description:
       "A responsive car rental website to display available cars and call to action for booking.",
     tags: ["html", "css", "javascript"],
-    link: "#",
+    link: "https://huliztransports.com",
   },
   {
     title: "Influencer Personal Portfolio - (KALYJAY)",
@@ -63,7 +77,7 @@ const projects = [
     description:
       "Personal portfolio showcasing projects, skills, and contact information.",
     tags: ["Next.js", "TypeScript", "Tailwind"],
-    link: "#",
+    link: "https://jerry-personal-portfolio.vercel.app",
   },
 ];
 
