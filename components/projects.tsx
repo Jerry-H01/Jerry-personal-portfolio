@@ -1,18 +1,34 @@
 "use client";
 
 const projects = [
-
   {
     title: "Corperate Website",
     description:
-      "Website for a corporate company featuring courses, faculty profiles, and CRM to manage web contents and keep records of clients.",
+      "Website for a corporate company featuring faculty profiles, and CRM to manage web contents and keep records of clients. Website was also developed under CYBASE GHANA LTD",
     tags: ["react", "tailwind", "typescript"],
     link: "https://ghascd.org/",
   },
   {
+    title: "NGO Website",
+    description: "website for an NGO Owned By Farida Mahama. It is a non-profit organization that focuses on empowering women and children in Ghana. Website was developed under CYBASE GHANA LTD",
+    tags: ["react", "tailwind", "typescript"],
+    link: "https://serenitycommunity.org/",
+  },
+  {
+    title: "Management Website",
+    description: "Website for a management company that deals with the management of talents, events like the supercar spectacle, properties and other related services. Website was also developed under CYBASE GHANA LTD",
+    tags: ["react", "tailwind", "typescript"],
+    link: "https://www.ironcladmgt.com/",
+  },
+  {
+    title: "Apartment Website and Management System",
+    description: "Website for an apartment complex featuring apartment listings, booking functionality, and management system. Website was also developed under CYBASE GHANA LTD",
+    tags: ["react", "tailwind", "typescript"],
+    link: "https://www.westbury.cybasegh.com/",
+  },
+  {
     title: "Corperate Website",
-    description:
-      "website for a tech company",
+    description: "website for a tech company. Website was also developed under CYBASE GHANA LTD",
     tags: ["react", "tailwind", "typescript"],
     link: "https://cybasegh.com/",
   },
