@@ -1,6 +1,5 @@
 'use client'
 
-import { useState } from 'react'
 import Link from 'next/link'
 import { BsTwitterX } from 'react-icons/bs'
 
@@ -8,7 +7,6 @@ interface NavigationProps {
   activeSection: string
   setActiveSection: (section: string) => void
 }
-
 export default function Navigation({ activeSection, setActiveSection }: NavigationProps) {
   const sections = ['about', 'projects', 'work', 'cv', 'skills', 'contact']
 
